@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">屏译词典</string>
+    <string name="widget_label">屏译词典 · 今日盲区小组件</string>
+    <string name="accessibility_service_label">屏译词典 · 屏幕长按取词服务</string>
+    <string name="accessibility_service_description">用于固定屏幕边缘悬浮条、在您触发取词时截取当前屏幕内容并识别长按或滑动选中的英文单词。</string>
+</resources>
+r
